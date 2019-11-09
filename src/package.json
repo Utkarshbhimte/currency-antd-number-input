@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "antd": "latest"
+  },
+  "keywords": [],
+  "name": "currency-wrapper-antd-input",
+  "description": ""
+}
